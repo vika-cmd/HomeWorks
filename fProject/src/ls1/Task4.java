@@ -13,8 +13,8 @@ public class Task4 {
         count=scanner.nextInt();
         h=(int)count/60/60;
         m=(int)((count-h*60*60)/60);
-        System.out.printf("текущее время : %d час. %d мин.",h,m);
-        //32433 - 9  0   41812 - 11 36
+        //System.out.printf("текущее время : %d час. %d мин.",h,m);
+        System.out.println(h+" "+m);
 
     }
 

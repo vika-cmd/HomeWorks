@@ -1,21 +1,22 @@
-package ls1;
 
 import java.util.Scanner;
 
-/**
- * Вычислите и выведите на экран объем шара, получив его радиус r с консоли
- * V = 4/3 * pi * r^3  ,  0 < r < 100
- */
-public class Task1 {
+public class Solution {
     public static void main(String[] args) {
-        int rad;
-        double v;
-
+        int a,b,c;
+        double d;
         Scanner scanner=new Scanner(System.in);
-        rad=scanner.nextInt();
-        v = (4D / 3) * Math.PI * Math.pow(rad, 3);
-        System.out.println(v);
-        //9 - 3053.6280592892786  25 - 65449.84694978735
+        a=scanner.nextInt();
+        b=scanner.nextInt();
+        c=scanner.nextInt();
+        d=b*b-4*a*c;
+        //System.out.println(d);
+        if(d>=0){
+            System.out.println("Р РµС€РµРЅРёРµ РµСЃС‚СЊ");
+        }
+        else {
+            System.out.println("Р РµС€РµРЅРёСЏ РЅРµС‚");
+        }
 
     }
 }

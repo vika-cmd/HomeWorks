@@ -9,6 +9,16 @@ import java.util.Scanner;
 public class Task2 {
 
     public static void main(String[] args) {
+        int a,b;
+        double res;
+        Scanner scanner=new Scanner(System.in);
+        a=scanner.nextInt();
+        b=scanner.nextInt();
+        res=Math.sqrt((double) 1/2*(a*a+b*b));
+        System.out.println(res);
+
+
+        /*
         int a,b,cnt;
         double sred,disp,d,standDev;
         cnt=2;
@@ -19,6 +29,8 @@ public class Task2 {
         d=(Math.pow(a-sred,2)+Math.pow(b-sred,2))/cnt;
         standDev=Math.sqrt(d);
         System.out.println(standDev);
+
+         */
 
         /*int b1=10,b2=8,b3=10,b4=8,b5=8,b6=4;
         int cnt=6;

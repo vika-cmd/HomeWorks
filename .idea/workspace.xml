@@ -3,15 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="8ca022c7-d14d-4307-a96a-27d3e82c5bb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk3.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk5.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk6.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk7.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk8.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fProject/ls1/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fProject/ls1/Task4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +61,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls1.Task1" />
+  <component name="RunManager" selected="Application.Tsk8">
+    <configuration name="Tsk4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Tsk4" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls1.*" />
+          <option name="PATTERN" value="ls2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls1.Task2" />
+    <configuration name="Tsk5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Tsk5" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls1.*" />
+          <option name="PATTERN" value="ls2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls1.Task3" />
+    <configuration name="Tsk6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Tsk6" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls1.*" />
+          <option name="PATTERN" value="ls2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls1.Task4" />
+    <configuration name="Tsk7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Tsk7" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls1.*" />
+          <option name="PATTERN" value="ls2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls1.Task5" />
+    <configuration name="Tsk8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Tsk8" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls1.*" />
+          <option name="PATTERN" value="ls2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Tsk8" />
+        <item itemvalue="Application.Tsk7" />
+        <item itemvalue="Application.Tsk6" />
+        <item itemvalue="Application.Tsk5" />
+        <item itemvalue="Application.Tsk4" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +151,8 @@
       <workItem from="1663516783975" duration="8448000" />
       <workItem from="1663613782223" duration="1060000" />
       <workItem from="1664209891588" duration="3225000" />
+      <workItem from="1664387721990" duration="20204000" />
+      <workItem from="1664448362684" duration="1005000" />
     </task>
     <servers />
   </component>

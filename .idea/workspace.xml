@@ -1,26 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca022c7-d14d-4307-a96a-27d3e82c5bb6" name="Changes" comment="">
+    <list default="true" id="8ca022c7-d14d-4307-a96a-27d3e82c5bb6" name="Changes" comment="comm2 IJ">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Dop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2dop/TskDop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2dop/TskDop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2dop/TskDop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part2dop/TskDop32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz1Part3/Tsk9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task512.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task5Sanya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Task91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/dz2Part2/Transponir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task1/Pr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task1/TestCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task2/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task3/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task3/TestStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task4/TestTimeUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task4/TimeUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task5/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task5/TestDayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/Inf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/obertka/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/obertka/ObertkaMAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/palindrom/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/palindrom/PalindromeIgnoreNonAlphanumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/BuffBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/ExChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/ExCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/ExRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/StrArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/strng/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/test/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/test/TestTst1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mind/test/Tst1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mindTasks/part5/task8/MyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop1/mindTasks/part5/task8/TestMyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task1/TestRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task2/TestStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task3/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task4/TestRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task5/TestGregorianCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task6/TestStopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fProject/src/oop11/Sber/task7/TestLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/Math1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/mod2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/src/ls3w/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/src/ls3w/Tsk10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr1/pr2/file2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls1/Task9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk3.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk5.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk6.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk7.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk8.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/ls2/Tsk8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fProject/ls1/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fProject/ls1/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jcourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jcourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/fProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/fProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls1/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part1/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk3.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk5.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk6.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk7.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fProject/src/ls2/Tsk8.java" beforeDir="false" afterPath="$PROJECT_DIR$/fProject/src/dz1Part2/Tsk8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/Project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fProject/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls1/Task9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fProject/ls2/Tsk8.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +154,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -53,21 +178,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Jcourse&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sbercourses&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.40344828&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tsk8">
-    <configuration name="Tsk4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls2.Tsk4" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Jcourse\fProject\src\ls3" />
+      <recent name="C:\Jcourse\pr1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Jcourse\pr1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dz2Part2" />
+      <recent name="dz2Part1NoBot" />
+      <recent name="ls5" />
+      <recent name="ls3" />
+      <recent name="ls2dop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestDayOfWeek">
+    <configuration name="Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.mind.test.Ex" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls2.*" />
+          <option name="PATTERN" value="oop1.mind.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsk5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls2.Tsk5" />
+    <configuration name="TestDayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.dz.part3_1.task5.TestDayOfWeek" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls2.*" />
+          <option name="PATTERN" value="oop.dz.part3_1.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsk6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls2.Tsk6" />
+    <configuration name="TestMyTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.mindTasks.part5.task8.TestMyTime" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls2.*" />
+          <option name="PATTERN" value="oop1.mindTasks.part5.task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsk7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls2.Tsk7" />
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.dz.part3_1.task2.TestStudent" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls2.*" />
+          <option name="PATTERN" value="oop.dz.part3_1.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsk8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls2.Tsk8" />
+    <configuration name="TestTimeUnit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.dz.part3_1.task4.TestTimeUnit" />
       <module name="fProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ls2.*" />
+          <option name="PATTERN" value="oop.dz.part3_1.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tsk8" />
-        <item itemvalue="Application.Tsk7" />
-        <item itemvalue="Application.Tsk6" />
-        <item itemvalue="Application.Tsk5" />
-        <item itemvalue="Application.Tsk4" />
+        <item itemvalue="Application.TestDayOfWeek" />
+        <item itemvalue="Application.TestTimeUnit" />
+        <item itemvalue="Application.TestMyTime" />
+        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.Ex" />
       </list>
     </recent_temporary>
   </component>
@@ -152,8 +293,65 @@
       <workItem from="1663613782223" duration="1060000" />
       <workItem from="1664209891588" duration="3225000" />
       <workItem from="1664387721990" duration="20204000" />
-      <workItem from="1664448362684" duration="1005000" />
+      <workItem from="1664448362684" duration="1705000" />
+      <workItem from="1664518442057" duration="15569000" />
+      <workItem from="1664605685358" duration="1100000" />
+      <workItem from="1664606822346" duration="7865000" />
+      <workItem from="1664634783469" duration="2581000" />
+      <workItem from="1664720744492" duration="5604000" />
+      <workItem from="1664783073991" duration="6148000" />
+      <workItem from="1664901357071" duration="1640000" />
+      <workItem from="1665081968081" duration="857000" />
+      <workItem from="1665128203103" duration="5109000" />
+      <workItem from="1665137889599" duration="2189000" />
+      <workItem from="1665308844282" duration="335000" />
+      <workItem from="1665309211344" duration="2444000" />
+      <workItem from="1665317813704" duration="8532000" />
+      <workItem from="1665384783126" duration="1210000" />
+      <workItem from="1665406124742" duration="8551000" />
+      <workItem from="1665472951329" duration="4680000" />
+      <workItem from="1665477762410" duration="3652000" />
+      <workItem from="1665496991252" duration="866000" />
+      <workItem from="1665589025154" duration="1536000" />
+      <workItem from="1665730539084" duration="1940000" />
+      <workItem from="1665814877523" duration="33485000" />
+      <workItem from="1665903331581" duration="12517000" />
+      <workItem from="1665987754428" duration="13070000" />
+      <workItem from="1666078457788" duration="216000" />
+      <workItem from="1666079010654" duration="4842000" />
+      <workItem from="1666110466189" duration="5760000" />
+      <workItem from="1666161697909" duration="5913000" />
+      <workItem from="1666174833378" duration="19319000" />
+      <workItem from="1666247670526" duration="1727000" />
+      <workItem from="1666262913818" duration="1785000" />
+      <workItem from="1666279506499" duration="7661000" />
+      <workItem from="1666349887228" duration="15438000" />
+      <workItem from="1666368010264" duration="12650000" />
+      <workItem from="1666419925353" duration="7080000" />
+      <workItem from="1666443512732" duration="22284000" />
+      <workItem from="1666508058944" duration="2301000" />
+      <workItem from="1666541574954" duration="8804000" />
+      <workItem from="1666594764204" duration="657000" />
+      <workItem from="1666780211682" duration="5725000" />
+      <workItem from="1666792038528" duration="775000" />
+      <workItem from="1666800810232" duration="11334000" />
+      <workItem from="1666853064225" duration="9768000" />
+      <workItem from="1666889151000" duration="4752000" />
+      <workItem from="1666937013018" duration="16314000" />
+      <workItem from="1667046795612" duration="688000" />
+      <workItem from="1667051711884" duration="597000" />
+      <workItem from="1667111181225" duration="27409000" />
+      <workItem from="1667196837858" duration="28541000" />
+      <workItem from="1667282666026" duration="1101000" />
     </task>
+    <task id="LOCAL-00001" summary="comm2 IJ">
+      <created>1664452644200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664452644200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,5 +367,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comm2 IJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="comm2 IJ" />
   </component>
 </project>

@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fProject/src/Ex.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fProject/src/Main.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/fProject/src/ls1/Solution.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/fProject/src/ls1/Task4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz1Part1/Solution.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz1Part1/Task4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz1Part2dop/TskDop3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz1Part2dop/TskDop32.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop11.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz2Part1NoBot/Dop12.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz2Part2/Task6.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/dz2Part2/Task7.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task1/Pr.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop/dz/part3_1/task2/Student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop1/mind/obertka/ObertkaMAX.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop1/mind/obertka/ObertkaMAX.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop1/mind/strng/ExCreate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop11/Sber/task1/TestRectangle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop11/Sber/task2/TestStock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop11/Sber/task5/TestGregorianCalendar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fProject/src/oop11/Sber/task6/TestStopWatch.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mod2/src/ls3w/Solution.java" charset="UTF-8" />
   </component>
 </project>

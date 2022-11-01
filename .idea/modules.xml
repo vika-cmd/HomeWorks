@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jcourse.iml" filepath="$PROJECT_DIR$/Jcourse.iml" />
       <module fileurl="file://$PROJECT_DIR$/fProject/fProject.iml" filepath="$PROJECT_DIR$/fProject/fProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod2/mod2.iml" filepath="$PROJECT_DIR$/mod2/mod2.iml" />
     </modules>
   </component>
 </project>
